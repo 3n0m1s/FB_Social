@@ -4,6 +4,4 @@
 
     Full Facebook login with FBDialog from C# Desktop Application
     
-2) Chapter - TW_Full_Access
-
-    Full Twitter login with FBDialog from C# Desktop Application
+2) Chapter - Database
