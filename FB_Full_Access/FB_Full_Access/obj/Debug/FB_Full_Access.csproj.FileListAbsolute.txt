@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.Properties.Resources.resources
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\FB_Full_Access.exe.config
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\FB_Full_Access.exe
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\FB_Full_Access.pdb
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\Facebook.dll
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\Newtonsoft.Json.dll
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\Facebook.xml
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\bin\Debug\Newtonsoft.Json.xml
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.FBDialog.resources
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.Form1.resources
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.csproj.CopyComplete
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.exe
+C:\Users\simon\source\repos\FB_Full_Access\FB_Full_Access\obj\Debug\FB_Full_Access.pdb
